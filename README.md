@@ -16,7 +16,7 @@ For users who are new to visitng this repository, there is a step by step guide 
 
 5) Once this has opened up you can then paste the prime number program from the prime number.py file.
 
-6) Before you run the code, Save in a file of your choice and name the file whatever you would like it to be called.
+6) Before you run the code, Save the file with any name of your choice.
 
 NOTE: Make sure the file type is ".py" after you have named the file because the code will not work next time the filename does not end in ".py".
 
