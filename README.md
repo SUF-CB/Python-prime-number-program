@@ -6,7 +6,7 @@ So, the students can achieve 100% in any prime number question which appears in 
  
  # How to clone and Run the prime number program 
 For users who are new to visitng this repository, there is a step by step guide below on how to clone and run this program:
-1) Click on the prime number.py file and then you highlight the code and clone the code.
+1) First of all, stay on this repository and click on the prime number.py file and then you highlight the code and clone the code.
 
 2) Next, you need install and Idle to paste the code and then run the program. 
 
