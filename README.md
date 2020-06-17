@@ -18,6 +18,6 @@ For users who are new to visitng this repository, there is a step by step guide 
 
 6) Before you run the code, Save the file with any name of your choice.
 
-NOTE: Make sure the file type is ".py" after you have named the file because the code will not work next time the filename does not end in ".py".
+NOTE: Make sure the file type is ".py" after you have named the file because the code will not work next time if the filename does not end in ".py".
 
-7) Finally, go to the top of the IDLE and click "Run". You will see drop down menu appear. All you need to do then is click "Run Module". The Prime Number program will now run!
+7) Finally, go to the top of the IDLE and click "Run". You will see drop down menu appear. All you need to do then is click "Run Module". The Prime Number Program will now run!
