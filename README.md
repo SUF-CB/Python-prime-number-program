@@ -10,9 +10,9 @@ For users who are new to visitng this repository, there is a step by step guide 
 
 2) Next, you need install and Idle to paste the code and then run the program. 
 
-3) To do this you go onto this link: https://www.python.org/downloads/ and click on download Python 3.8.3.
+3) To do this you go onto this link: https://www.python.org/downloads/ and click on download Python 3.9.
 
-4) After Python 3.8.3 is downloaded on your device, go onto your desktop and click on "IDLE (Python 3.8 32-bit)".
+4) After Python 3.8.3 is downloaded on your device, go onto your desktop and click on "IDLE (Python 3.9 64-bit)".
 
 5) Once this has opened up you can then paste the prime number program from the prime number.py file.
 
